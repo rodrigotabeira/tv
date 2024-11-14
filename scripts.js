@@ -33,7 +33,7 @@ function showImage(index) {
     imgElement.src = images[index];
 }
 
-// Cambiar la imagen automáticamente cada 3 segundos (3000 ms)
+// Cambiar la imagen automáticamente cada 10 segundos (10000 ms)
 setInterval(function() {
     currentIndex = (currentIndex + 1) % images.length;
     showImage(currentIndex);
