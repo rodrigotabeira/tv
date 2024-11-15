@@ -23,7 +23,7 @@ let images = [
     'imagenes/imagen30.png',
     'imagenes/imagen31.png',
     'imagenes/imagen32.png',
-    'imagenes/imagen33.png'
+    'imagenes/imagen33.png',
 ];
 
 let currentIndex = 0;
