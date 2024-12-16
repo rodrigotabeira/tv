@@ -1,5 +1,6 @@
 let images = [
     'imagenes/imagen1.png',
+    'imagenes/imagen29.png',
     'imagenes/imagen28.png',
     'imagenes/imagen27.png',
     'imagenes/imagen26.png',
@@ -26,7 +27,7 @@ let images = [
     'imagenes/imagen5.png',
     'imagenes/imagen4.png',
     'imagenes/imagen3.png', 
-    'imagenes/imagen2.png',  
+    'imagenes/imagen2.png'  
 ];
 
 let currentIndex = 0;
