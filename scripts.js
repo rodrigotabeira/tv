@@ -1,8 +1,6 @@
 let images = [
 <<<<<<< HEAD
     'imagenes/imagen1.png',
-    'imagenes/imagen34.png',
-    'imagenes/imagen33.png',
     'imagenes/imagen32.png',
     'imagenes/imagen31.png',
     'imagenes/imagen30.png',
