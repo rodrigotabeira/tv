@@ -1,6 +1,7 @@
 let images = [
     'imagenes/imagen43.png',
     'imagenes/imagen2.png',
+    'imagenes/imagen34.png',
     'imagenes/imagen20.png',
     'imagenes/imagen29.png',
     'imagenes/imagen21.png',
