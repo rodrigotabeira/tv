@@ -37,6 +37,7 @@ let images = [
     'imagenes/imagen36.png',
     'imagenes/imagen37.png',
     'imagenes/imagen38.png',
+    'imagenes/imagen39.png',
     'imagenes/imagen40.png',
     'imagenes/imagen41.png',
     'imagenes/imagen42.png',
