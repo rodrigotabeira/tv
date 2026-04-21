@@ -10,6 +10,7 @@ let images = [
     'imagenes/imagen9.png',
     'imagenes/imagen10.png',
     'imagenes/imagen11.png',
+    'imagenes/imagen12.png',
 ];
 
 let currentIndex = 0;
