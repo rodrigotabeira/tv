@@ -18,6 +18,7 @@ let images = [
     'imagenes/imagen17.png',
     'imagenes/imagen18.png',
     'imagenes/imagen19.png',
+    'imagenes/imagen20.png',
 
 ];
 
