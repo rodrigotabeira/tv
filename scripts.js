@@ -29,7 +29,6 @@ let images = [
     'imagenes/imagen29.png'
     'imagenes/imagen30.png'
     'imagenes/imagen31.png'
-    'imagenes/imagen32.png'
 
 ];
 
